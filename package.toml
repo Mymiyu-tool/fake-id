@@ -1,0 +1,7 @@
+[package]
+version = "0.1.0"
+name = { en = "Fake Identity", zh = "虚拟身份生成" }
+summary = { en = "Generate a complete fictional person profile (name, address, SSN, card, education, career, online persona) from haoweichi for form testing and fixtures", zh = "生成完整的虚构人物档案：身份、地址、信用卡、学历、职业、线上资料，用于表单测试和占位" }
+author = "yxxbc"
+icon = "id-card"
+upstream = "https://github.com/Mymiyu-tool/fake-id"
